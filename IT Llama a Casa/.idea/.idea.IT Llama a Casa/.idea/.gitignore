@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.IT Llama a casa.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Development\GitHub\STEAM-Video-game\IT Llama a casa\.idea\.idea.IT Llama a casa\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
