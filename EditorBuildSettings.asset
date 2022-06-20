@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: dbe80f75b7465a84ca5de3ddc62e7678
+  - enabled: 1
+    path: Assets/Scenes/MenuInicial.unity
+    guid: 70dffd692207235469216ddf196052b3
+  - enabled: 1
+    path: Assets/Scenes/MenuIniciarSesion.unity
+    guid: 2a5cc53979e85774a8e5e19ed653a1f5
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 690a30db1e34e3f45a70ac57df52f744
+  - enabled: 1
+    path: Assets/Scenes/Mapa.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MinijuegoITC.unity
+    guid: 22c3a33df034c884596a3efdbd9a5679
+  - enabled: 1
+    path: Assets/Scenes/MinijuegoIBT.unity
+    guid: 313739442fe9e854fa2f50c5849db95c
+  - enabled: 1
+    path: Assets/Scenes/EditarPerfil.unity
+    guid: fb3983f9876619147915aac262e71498
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 8489e8fc831e49947a14ac6ebca51da2
+  - enabled: 1
+    path: Assets/Scenes/EscenaFinal.unity
+    guid: 0f300dbbddafddd47a5050591c64e353
+  - enabled: 1
+    path: Assets/Scenes/MejoresPuntuaciones.unity
+    guid: 5e10a4c306d46ef44830bbb39a184555
+  m_configObjects: {}
